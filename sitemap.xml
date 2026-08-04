@@ -84,4 +84,40 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://controldeplagaspuertoreal.es/blog/</loc>
+    <lastmod>2025-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://controldeplagaspuertoreal.es/blog/control-cucarachas-puerto-real-precio.html</loc>
+    <lastmod>2025-06-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://controldeplagaspuertoreal.es/blog/control-roedores-puerto-real.html</loc>
+    <lastmod>2025-06-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://controldeplagaspuertoreal.es/blog/fumigacion-termitas-puerto-real.html</loc>
+    <lastmod>2025-06-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://controldeplagaspuertoreal.es/blog/plagas-comunidad-vecinos-puerto-real.html</loc>
+    <lastmod>2025-05-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://controldeplagaspuertoreal.es/blog/mosquitos-zona-puerto-puerto-real.html</loc>
+    <lastmod>2025-05-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>

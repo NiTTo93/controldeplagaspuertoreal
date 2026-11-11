@@ -54,6 +54,15 @@
 }
 </script>
 <meta name="google-site-verification" content="yn8LIRCADY9tq7IJTRgMHw8JzVsp46ZdmWmrYW3Wk3w" />
+<style>
+/* Sticky mobile bar — conversión urgencias */
+.sticky-cta{position:fixed;bottom:0;left:0;right:0;z-index:2000;display:none;gap:8px;padding:10px 12px;background:#fff;box-shadow:0 -4px 16px rgba(0,0,0,.18)}
+.sticky-cta a{flex:1;text-align:center;padding:12px 8px;border-radius:8px;font-weight:700;font-size:15px;text-decoration:none;line-height:1.2}
+.sticky-cta .btn-llamar{background:#d93025;color:#fff}
+.sticky-cta .btn-retell{background:#1a4f8b;color:#fff}
+.sticky-cta small{display:block;font-weight:400;font-size:11px;opacity:.85}
+@media(max-width:768px){.sticky-cta{display:flex}body{padding-bottom:64px}}
+</style>
 </head>
 <body>
 
@@ -571,7 +580,7 @@
         <h4>Empresa</h4>
         <ul>
           <li><a href="sobre-nosotros.html">Sobre nosotros</a></li>
-          <li><a href="contacto.html">Contacto</a></li>
+          <li><a href="precios.html">Precios</a></li><li><a href="contacto.html">Contacto</a></li>
           <li><a href="#formulario">Presupuesto gratis</a></li>
           <li><a href="politica-privacidad.html">Política de privacidad</a></li>
           <li><a href="aviso-legal.html">Aviso legal</a></li>
@@ -601,5 +610,11 @@
 <script>
 function toggleMenu(){document.getElementById('hamburger').classList.toggle('active');document.getElementById('navMenu').classList.toggle('active');}
 </script>
+
+<!-- Sticky CTA mobile -->
+<div class="sticky-cta">
+  <a href="tel:856634283" class="btn-llamar">📞 Llamar ahora<small>Gratis · ControlPlagas PR</small></a>
+  <a href="#formulario" class="btn-retell">📝 Pedir presupuesto<small>Te llamamos en 1h</small></a>
+</div>
 </body>
 </html>
